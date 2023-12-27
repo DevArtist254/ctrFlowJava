@@ -17,6 +17,7 @@ public class userInputReader1 {
 
         //2a. Read and check for errors
         do{
+            System.out.println("Total is "+ sum);
             System.out.println("Number "+ count +".#");
 
             try {
